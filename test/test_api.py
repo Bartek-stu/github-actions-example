@@ -49,3 +49,6 @@ class TestApi(unittest.TestCase):
         response = requests.get(F"{HOST}/api/sub")
         assert response.status_code == 400
         assert response.json().get("error") == "Provide 'lhs' and 'rhs' parameters in request"
+
+    def test_fail(test):
+        assert False

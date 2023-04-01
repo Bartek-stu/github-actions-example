@@ -8,6 +8,7 @@ on:
       - closed
 jobs:
   build-and-test:
+    name: Build app and run integration tests
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 5
