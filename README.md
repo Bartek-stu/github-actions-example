@@ -1,0 +1,1 @@
+![Build and tests](https://github.com/Bartek-stu/github-actions-example/actions/workflows/run-unit-tests.yml/badge.svg)
