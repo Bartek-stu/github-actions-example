@@ -26,5 +26,8 @@ class TestMathFunctions(unittest.TestCase):
             functions.sub(3, "abc")
         assert str(ex.value) == "Values must be numeric"
 
+    def test_fail(test):
+        assert False
+
 if __name__ == "__main__":
     unittest.main()
