@@ -1,1 +1,2 @@
 ![Build and tests](https://github.com/Bartek-stu/github-actions-example/actions/workflows/build-and-test.yml/badge.svg)
+![Publish Docker image](https://github.com/Bartek-stu/github-actions-example/actions/workflows/publish-docker-image.yml/badge.svg)
