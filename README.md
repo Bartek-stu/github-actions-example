@@ -1,1 +1,2 @@
-![Build and tests](https://github.com/Bartek-stu/github-actions-example/actions/workflows/run-unit-tests.yml/badge.svg)
+![Unit tests](https://github.com/Bartek-stu/github-actions-example/actions/workflows/run-unit-tests.yml/badge.svg)
+![Integration tests and deploy](https://github.com/Bartek-stu/github-actions-example/actions/workflows/run-integration-tests-and-publish.yml/badge.svg)
